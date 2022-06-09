@@ -10,7 +10,7 @@ Created 4rd version of website for the project. Removed mega-menu and divs with 
 Created 3rd version of website for the project. Mega-menu and multi-option div feature using vanilla JS, HTML, and CSS.
 
 [Version-2 in 2018](https://wallacerepo.github.io/project_website_2/)
-it's a second design for the project. 
+it's a second design for the project. The company name, logo and color was changed via ownership change.
 
    
    
